@@ -19,3 +19,10 @@ Situação: A caminho
 Data /Hora Ocorrência: 05/08/2020 14:58:00
 
 Status: Recebida no CD da transportadora -
+
+-------------------------------------------------------------
+Data /Hora Ocorrência: 06/08/2020 08:16:30
+
+Status: Em transferência entre CDs da transportadora -
+
+-------------------------------------------------------------
